@@ -1,0 +1,1 @@
+The data used for stocks.csv was extracted from Thomson Reuters Eikon API. Unfortunately we cannot share it, due to legal.
