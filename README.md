@@ -2,7 +2,7 @@
 
 This is a python package for hierarchical clustering based on the study Hierarchical Qualitative Clustering (HQC): clustering mixed datasets with critical qualitative information [(click here to view the preprint)](https://arxiv.org/abs/2006.16701). HQC method maintains the original interpretability of the qualitative information present in the dataset.
 
-In the future other clustering methods, such as DBSCAN and K-Means will be adapted as well.
+In the future, other clustering methods such as DBSCAN and K-Means will be adapted and included as well.
 
 ## How to install and run
 
