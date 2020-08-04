@@ -17,6 +17,6 @@ or
 
 ## Examples
 
-(**Jupyter Notebook 1**: Clustering Music Artists)[notebooks/1. Clustering Music Artists.ipynb]
-(**Jupyter Notebook 2**: Clustering Stock Industries)[notebooks/2. Clustering Company Industries.ipynb]
-(**Jupyter Notebook 3**: Clustering Stock Sub-Industries)[notebooks/3. Clustering Company Sub-Industries.ipynb]
+(**Jupyter Notebook 1**: Clustering Music Artists)[https://github.com/diogoseca/qualitative-clustering/blob/master/notebooks/1.%20Clustering%20Music%20Artists.ipynb]  
+(**Jupyter Notebook 2**: Clustering Stock Industries)[https://github.com/diogoseca/qualitative-clustering/blob/master/notebooks/2.%20Clustering%20Company%20Industries.ipynb]  
+(**Jupyter Notebook 3**: Clustering Stock Sub-Industries)[https://github.com/diogoseca/qualitative-clustering/blob/master/notebooks/3.%20Clustering%20Company%20Sub-Industries.ipynb]  
