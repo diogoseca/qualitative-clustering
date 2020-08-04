@@ -13,7 +13,8 @@ Open your terminal and run:
 or 
 
     git clone https://github.com/diogoseca/qualitative-clustering.git
-    python setup.py
+    cd qualitative-clustering/
+    python setup.py install
 
 ## Examples
 
